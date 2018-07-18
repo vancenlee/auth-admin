@@ -5,3 +5,6 @@
 build/*.js
 config/*.js
 src/assets
+*.js
+*.vue
+*.scss
